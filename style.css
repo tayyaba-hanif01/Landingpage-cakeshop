@@ -1,0 +1,74 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Whisper&display=swap');
+
+body{
+
+    background-color: rgb(53, 52, 52);
+}
+.t1{
+    font-size: 60px;
+    font-family: 'Whisper', cursive;
+    color: rgb(236, 177, 66);
+}
+ ul{
+    font-size: 20px;
+  
+}
+
+ .t2{
+   font-size: 60px;
+   color: white;
+   font-family: 'Kalnia', serif;
+   padding-left: 90px;
+   }
+.btn1{
+    padding: 10px 30px;
+    margin-left: 90px;
+    margin-top: 20px;
+    background-color: rgb(247, 192, 91);
+}  
+.head{
+    background: url('./images/p1.jpg');
+    
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    padding-top: 150px;
+}
+.t3{
+    color: white;
+}
+.rs1{
+    margin-top: 230px;
+    margin-left: 170px;
+}
+.tit{
+    font-size: 20px;
+}
+.card1:hover{
+    border: 3px solid rgb(226, 20, 20);
+    background-color: rgb(240, 225, 199);
+}
+.line{
+    background-color: rgb(236, 232, 232);
+   
+}
+.mx-1{
+    color:white
+}
+.int{
+    border: 2px solid red;
+   }
+   .t4{
+    font-size: 45px;
+    font-family: 'Whisper', cursive;
+    color: rgb(236, 177, 66);
+   }
+   .h2{
+    color: rgb(236, 177, 66);
+   }
+   .foot{
+    font-size: 20px;
+    font-weight: bolder;
+   }
+
